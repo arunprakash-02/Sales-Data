@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sales Data Case Study
 > Sample Sales Data, Order Info, Sales, Customer, Shipping, etc., Used for Segmentation, Customer Analytics, Clustering and More. Inspired for retail analytics. This was originally used for Pentaho DI Kettle.
 Originally Written by María Carina Roldán, Pentaho Community Member, BI consultant (Assert Solutions), Argentina. This work is licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License. Modified by Gus Segura June 2014.
@@ -89,3 +90,7 @@ Created by [@arunprakash-01] - feel free to contact me!
 <!-- This project is open source and available under the [... License](). -->
 
 <!-- You don't have to include all sections - just the one's relevant to your project -->
+=======
+# Sales-Data
+Analysing sales data
+>>>>>>> origin/main
